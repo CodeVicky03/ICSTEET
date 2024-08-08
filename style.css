@@ -1048,6 +1048,9 @@ footer > div > :nth-child(2) {
   .doubt > div > input {
     width: 260px;
   }
+  footer > div > p > img {
+    height: 15px;
+  }
 }
 
 @media (max-width: 360px) {
