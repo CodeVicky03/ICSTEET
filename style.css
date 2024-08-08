@@ -1049,7 +1049,10 @@ footer > div > :nth-child(2) {
     width: 260px;
   }
   footer > div > p > img {
-    height: 15px;
+    height: 10px;
+  }
+  footer > div > p > span{
+    font-size: 20px;
   }
 }
 
