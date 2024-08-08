@@ -1036,7 +1036,8 @@ footer > div > :nth-child(2) {
   }
 
   .title>h1::before{
-    top: -45px;
+    top: -35px;
+    font-size: 9px;
   }
 
   .sessions-list::-webkit-scrollbar-thumb:hover {
