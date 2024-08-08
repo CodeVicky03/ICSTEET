@@ -1063,6 +1063,10 @@ footer > div > :nth-child(2) {
   .session {
     width: 280px;
   }
+  footer > div > :nth-child(1){
+    display: flex;
+    flex-wrap: wrap;
+  }
   .paper > section > div {
     width: 280px;
   }
